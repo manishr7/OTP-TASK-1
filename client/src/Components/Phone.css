@@ -1,0 +1,20 @@
+.phone_signin
+{
+    /* position: absolute;
+    left: 50%;
+    margin-top: 3.7rem; */
+    
+    align-self: center;
+}
+.phone_content
+{
+    text-align: center;
+    
+}
+.cont {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 3rem;
+    padding-inline: 3rem;
+}
