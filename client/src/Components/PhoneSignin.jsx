@@ -54,7 +54,7 @@ function PhoneSignin() {
   };
   const postData= async()=>
   {
-  const res=await fetch("/api/user/login",
+  const res=await fetch("https://react-da90.onrender.com/api/user/login",
   {
     method:"POST",
     headers:{
